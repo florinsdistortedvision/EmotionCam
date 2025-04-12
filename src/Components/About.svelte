@@ -60,7 +60,7 @@
             </p>
 
             <p class="camera-more-info-quick-facts">
-                2.0MP - 1600x1200 - Almost HD - Nostalgic - 2007
+                2.0MP - 1200x900 - Almost HD - Nostalgic - 2007
             </p>
         </div>
 
