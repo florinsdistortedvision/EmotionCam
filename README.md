@@ -27,6 +27,7 @@
 
 ## Features
 - On-device camera previews
+- Images do not get uploaded to any server
 - Authentic recreations of early mobile photo processing
 - Svelte-based, lightweight and fast
 - Sweden-based OS web design

@@ -78,6 +78,9 @@
                 </ul>
             </div>
 
+            <p class="camera-more-info-quick-facts">
+                This website does not upload any image to any server.
+            </p>
             <p class="camera-more-info-quick-facts">Code & design by florin.</p>
         </div>
     </div>
