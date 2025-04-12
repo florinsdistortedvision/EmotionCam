@@ -33,3 +33,4 @@ yarn-error.log*
 
 # Optional: Ignore asset previews (uncomment if not needed in repo)
 /assets/preview_*.jpg
+package-lock.json
