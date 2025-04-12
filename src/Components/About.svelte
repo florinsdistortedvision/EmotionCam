@@ -9,7 +9,7 @@
                 alt="chicken"
                 style="width: 36px"
                 class="camera-icon"
-                src="../../assets/sun-solid.svg"
+                src="/assets/sun-solid.svg"
             />
             <p class="camera-title">About</p>
         </div>
@@ -22,11 +22,7 @@
     <div class="camera-middle">
         <div class="camera-info">
             <div class="camera-info-top">
-                <img
-                    src="../../assets/expand.svg"
-                    style="width: 16px;"
-                    alt="Icon"
-                />
+                <img src="/assets/expand.svg" style="width: 16px;" alt="Icon" />
 
                 <p class="camera-name">Cameron ‘03</p>
             </div>
@@ -44,11 +40,7 @@
 
         <div class="camera-info">
             <div class="camera-info-top">
-                <img
-                    src="../../assets/expand.svg"
-                    style="width: 16px;"
-                    alt="Icon"
-                />
+                <img src="/assets/expand.svg" style="width: 16px;" alt="Icon" />
 
                 <p class="camera-name">Maroon ‘07</p>
             </div>
@@ -66,11 +58,7 @@
 
         <div class="camera-info">
             <div class="camera-info-top">
-                <img
-                    src="../../assets/heart.svg"
-                    style="width: 16px;"
-                    alt="Icon"
-                />
+                <img src="/assets/heart.svg" style="width: 16px;" alt="Icon" />
 
                 <p class="camera-name">EmotionCam uses:</p>
             </div>

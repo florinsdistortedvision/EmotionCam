@@ -43,7 +43,7 @@
                 alt="chicken"
                 style="width: 36px"
                 class="camera-icon"
-                src="../../assets/retro-camera-solid.svg"
+                src="/assets/retro-camera-solid.svg"
             />
             <p class="camera-title">EmotionCam</p>
         </div>
@@ -54,7 +54,7 @@
                 class="camera-selected-previous"
                 off={cameraMode === "Cameron" ? true : false}
             >
-                <img src=".../../assets/angle-left-solid.svg" alt="next" />
+                <img src="/assets/angle-left-solid.svg" alt="next" />
             </button>
 
             <div class="camera-selected">
@@ -70,7 +70,7 @@
                 class="camera-selected-next"
                 off={cameraMode === "Maroon" ? true : false}
             >
-                <img src=".../../assets/angle-right-solid.svg" alt="next" />
+                <img src="/assets/angle-right-solid.svg" alt="next" />
             </button>
         </div>
     </div>
@@ -85,8 +85,8 @@
                 style="width: 178px; border: 1px solid black"
                 src={isPreview
                     ? cameraMode === "Cameron"
-                        ? "../../assets/preview_03.jpg"
-                        : "../../assets/preview_07.jpg"
+                        ? "/assets/preview_03.jpg"
+                        : "/assets/preview_07.jpg"
                     : cameraMode === "Cameron"
                       ? processedImages.cameronImage
                       : processedImages.maroonImage}
